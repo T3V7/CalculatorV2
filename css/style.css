@@ -73,7 +73,7 @@ body {
 
 .calc {
   margin: 100px auto;
-  padding: 15px;
+  padding: 15px 15px;
   width: 177px;
   background: #3d4543;
   border: 1px solid #222;
@@ -204,7 +204,7 @@ body {
 }
 
 #scaled{
-  -webkit-transform: scale(1.1);
+  -webkit-transform: scale(1);
 }
 
 .lt-ie7 .calc-row {
