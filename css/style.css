@@ -72,7 +72,7 @@ body {
 }
 
 .calc {
-  margin: 50px auto;
+  margin: 150px auto;
   padding: 15px;
   width: 177px;
   background: #3d4543;
@@ -203,9 +203,10 @@ body {
   width: 152px;
 }
 
-/* border-box fix */
+#scaled{
+  -webkit-transform: scale(1.2);
+}
+
 .lt-ie7 .calc-row {
   margin-left: -7px;
 }
-
-/* first-child fix */
