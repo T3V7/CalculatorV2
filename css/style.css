@@ -72,7 +72,9 @@ body {
 }
 
 .calc {
-  margin: 100px auto;
+  -webkit-transform: scale(2);
+  margin: 150px auto;
+  margin-bottom: 0px;
   padding: 15px 15px;
   width: 177px;
   background: #3d4543;
